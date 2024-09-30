@@ -1,0 +1,18 @@
+/* styles.css */
+body {
+    padding-top: 56px; /* Jarak top untuk navbar fixed */
+}
+
+.footer {
+    background-color: #f8f9fa;
+}
+
+.carousel-item img {
+    max-height: 400px; /* Mengatur tinggi gambar carousel */
+    object-fit: cover; /* Menyesuaikan gambar agar sesuai dengan ukuran kontainer */
+}
+
+.card-img-top {
+    max-height: 2c00px; /* Mengatur tinggi gambar produk */
+    object-fit: cover; /* Menyesuaikan gambar agar sesuai dengan ukuran kontainer */
+}
